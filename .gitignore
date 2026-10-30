@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+data/
+workspace/
+results/
+weights_ma/
+local_models/
+mirror/
+out/
+*.pt
+*.pth
+*.bin
+*.npz
+*.dcm
+*.dic
+*.zip

@@ -1,0 +1,8 @@
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+pydicom==3.0.2
+SimpleITK==2.5.6
+Pillow==11.3.0
+torch==2.8.0
+torchvision==0.23.0
